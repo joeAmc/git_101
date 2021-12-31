@@ -1,0 +1,15 @@
+.container{
+	background-color: lightgrey;
+	text-align: center;
+}
+
+.container img{
+	height: 200px;
+	width: auto;
+	padding-top: 10px;
+}
+
+.container h1 {
+	font-style: arial;
+	font-size: 20 px;
+}
