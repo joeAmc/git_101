@@ -1,7 +1,10 @@
 .container{
-	background-color: lightgrey;
-	text-align: center;
-}
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: white;
+	}
 
 .container img{
 	height: 200px;
@@ -10,6 +13,6 @@
 }
 
 .container h1 {
-	font-style: arial;
-	font-size: 20 px;
+	font-style; helvetica;
+	font-size: 40 px;
 }
